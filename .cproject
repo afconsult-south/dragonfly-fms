@@ -31,8 +31,8 @@
 								<option id="gnu.cpp.compiler.exe.debug.option.debugging.level.1567677904" name="Debug Level" superClass="gnu.cpp.compiler.exe.debug.option.debugging.level" useByScannerDiscovery="false" value="gnu.cpp.compiler.debugging.level.default" valueType="enumerated"/>
 								<option id="gnu.cpp.compiler.option.other.other.1247890293" name="Other flags" superClass="gnu.cpp.compiler.option.other.other" useByScannerDiscovery="false" value="-c -fmessage-length=0 -std=c++11 -fPIC" valueType="string"/>
 								<option id="gnu.cpp.compiler.option.include.paths.1302794577" name="Include paths (-I)" superClass="gnu.cpp.compiler.option.include.paths" useByScannerDiscovery="false" valueType="includePath">
-									<listOptionValue builtIn="false" value="../dragonfly/sw/comms/protobuf"/>
-									<listOptionValue builtIn="false" value="../dragonfly/tools/nanopb-0.3.5-windows-x86"/>
+									<listOptionValue builtIn="false" value="${WorkspaceDirPath}/dragonfly/sw/comms/protobuf"/>
+									<listOptionValue builtIn="false" value="${WorkspaceDirPath}/dragonfly/tools/nanopb-0.3.5-windows-x86"/>
 								</option>
 								<inputType id="cdt.managedbuild.tool.gnu.cpp.compiler.input.11459174" superClass="cdt.managedbuild.tool.gnu.cpp.compiler.input"/>
 							</tool>
